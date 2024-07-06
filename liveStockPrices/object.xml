@@ -1,0 +1,6 @@
+<panel id="stockUpdatePanel"
+    position="0 0 -20"
+    rotation="180 180 0">
+    <Text id="stockUpdateText">UPDATE<br/>STONKS!</Text>
+</panel>
+
